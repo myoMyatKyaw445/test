@@ -1,0 +1,7 @@
+.tipHistoryClass{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 20px 10px;
+    border-bottom: 1px solid black;
+  }
